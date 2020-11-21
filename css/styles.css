@@ -61,6 +61,8 @@ p {
 }
 
 .title {
+    min-height: 5rem;
+
     padding: 2rem;
     font-size: 1.6rem;
 
@@ -68,6 +70,9 @@ p {
 }
 
 .sub-title {
+
+    min-height: 5rem;
+
     padding: 2rem;
     margin-top: 3rem;
     font-size: 1.4rem;
@@ -108,7 +113,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 8rem;
+    margin-top: 12rem;
 }
 
 .saiba-mais img {
