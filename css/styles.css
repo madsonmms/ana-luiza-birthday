@@ -113,7 +113,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 12rem;
+    margin-top: 4rem;
 }
 
 .saiba-mais img {
@@ -131,8 +131,8 @@ p {
 }
 
 #saiba-mais {
-    background: #333;
-    color: #FFF;
+    background: #151516;
+    color: #EEE;
 }
 
 .yes-you-can,
